@@ -4,7 +4,7 @@ import java.io.PrintStream;
 
 public class Lab024_printF {
     public static void main(String[] args) {
-        System.out.println("Multiplication Table of 9:");
+        System.out.println("Multiplication Tables of 9:");
 
         System.out.printf("9 x 1 = %d\n", 9);
         System.out.printf("9 x 2 = %d\n", 9 * 2);
